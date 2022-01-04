@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    color: seashell;
+    font-weight: 600;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 15px;
+}
